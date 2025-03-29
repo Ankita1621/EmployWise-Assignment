@@ -17,7 +17,7 @@ const UserList = () => {
     const token = localStorage.getItem('token');
     if (!token) navigate('/');
     fetchUsers(page);
-  }, [page]);
+}, [page, navigate]);
 
   const fetchUsers = async (page) => {
     try {
