@@ -1,6 +1,6 @@
 # EmployWise Assignment
 
-🚀 **Live Demo:** [EmployWise App]((https://employwiseassgn.netlify.app/))
+🚀 **Live Demo:** [EmployWise App](https://employwiseassgn.netlify.app/)
 
 ## 📜 Project Overview
 EmployWise is a React-based user management application that leverages the Reqres API. It offers authentication, pagination, CRUD operations, and a responsive UI for seamless user management.
